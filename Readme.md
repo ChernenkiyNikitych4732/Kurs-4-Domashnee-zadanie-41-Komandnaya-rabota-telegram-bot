@@ -17,7 +17,7 @@ ___
 ## Команда разработчиков:
 - [Черненький Никита](https://github.com/ChernenkiyNikitych4732)
 - [Брюховицкая Светлана](https://github.com/dabich626626)
-- [Панков Марк]()
+- [Панков Марк](https://github.com/markpan07)
 ___
 ## Техническое задание проекта:
 - [ТЗ на проект](https://skyengpublic.notion.site/47bcac1b049f4af6b351e2ab5d05afb4)
